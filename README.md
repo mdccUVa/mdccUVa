@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Manuel de Castro, a PhD. Researcher Candidate in Computer Architecture at Universidad de Valladolid (Spain). I specialize on High-Performance Computing (HPC), including heterogeneous computing, and using high-level programming models and tools to efficiently program heterogeneous and distributed systems.
+
+I am currently researching the applicability of FPGAs as comodity acceelrators for HPC problems (complex tasks of scientific or engineering interest).
+
+You can reach me at manuel@infor.uva.es.
+
+See you around! 😉
+
 <!--
 **mdccUVa/mdccUVa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
