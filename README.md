@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Manuel de Castro, a PhD. Researcher Candidate in Computer Architecture at Universidad de Valladolid (Spain).
+I am Manuel de Castro, a PhD. Candidate Researcher in Computer Architecture at Universidad de Valladolid (Spain).
 
-I specialize on High-Performance Computing (HPC), including heterogeneous computing, and using high-level programming models and tools to efficiently program heterogeneous and distributed systems.
+I specialize in High-Performance Computing (HPC), including heterogeneous computing, and using high-level programming models and tools to efficiently program heterogeneous and distributed systems.
 
-I am currently researching the applicability of FPGAs as comodity acceelrators for HPC problems (complex tasks of scientific or engineering interest).
+I am currently researching the applicability of FPGAs as comodity accelrators for HPC problems (complex tasks of scientific or engineering interest).
 
 You can reach me at manuel@infor.uva.es.
 
